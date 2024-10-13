@@ -4,7 +4,7 @@ import random as r
 import time
 import sys
 import os
-
+#lowde comments daal de samjhane ke liye
 p.init()
 p.font.init()
 
